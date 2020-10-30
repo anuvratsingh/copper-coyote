@@ -1,2 +1,6 @@
 .vscode
+target/
+debug/
 Cargo.lock
+**/*.rs.bk
+logs.txt
