@@ -1,5 +1,6 @@
 ### Overview 
 A basic HTTP-server in rust 
+A community project from [The Programmers Hangout](https://theprogrammershangout.com/resources/projects)
 
 ### Objective 
 - Learning
